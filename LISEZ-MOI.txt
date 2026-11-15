@@ -1,1 +1,11 @@
-VERSION 2 — Dépose tous les fichiers de ce dossier à la racine de ton dépôt GitHub Pages. Le classeur SBF120 est à importer dans Google Sheets. Vérifie les codes de cotation : certains symboles peuvent ne pas être reconnus. Les données de position sont conservées localement dans le navigateur. Composition de référence à contrôler auprès d'Euronext (12/11/2026).
+VERSION 2 — CORRECTIF INSTALLATION ANDROID
+
+1. Décompressez l’archive ZIP.
+2. Remplacez TOUS les fichiers à la racine du dépôt GitHub Pages par ceux du dossier. Ne créez pas de sous-dossier.
+3. Validez (Commit changes) et attendez la publication GitHub Pages.
+4. Sur Android, ouvrez l’adresse du site dans Google Chrome, puis actualisez la page. Le bouton « Installer » apparaît en haut lorsque Chrome autorise l’installation.
+5. Appuyez sur « Installer » puis confirmez. L’application s’ouvrira en plein écran, sans barre d’adresse.
+
+Si le bouton n’apparaît pas immédiatement, attendez quelques instants et rechargez la page. Le menu ⋮ de Chrome peut aussi proposer « Installer l’application ».
+
+Les positions restent enregistrées localement dans le navigateur. Faites une sauvegarde JSON avant tout changement important.
